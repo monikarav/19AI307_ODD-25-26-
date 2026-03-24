@@ -51,6 +51,13 @@ To generate a 4-digit treasure code using sum, difference, product, and modulus 
 
 ## PROGRAM:
  ```
+/*
+Program to implement a 4-digit treasure code. 
+Developed by: Monika RV
+RegisterNumber:  212222220027
+*/
+```
+ ```
 
        import java.util.Scanner;
        
