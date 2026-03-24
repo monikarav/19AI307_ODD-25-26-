@@ -80,6 +80,7 @@ RegisterNumber:  212222220027
 }
 
 ## OUTPUT:
+
 <img width="401" height="174" alt="image" src="https://github.com/user-attachments/assets/c120352b-8b15-4159-b289-58fe07652de9" />
 
 ## RESULT:
