@@ -30,7 +30,6 @@ The treasure code
 The treasure code is: <digit1><digit2><digit3><digit4>
 
 For example:
-
 Input	Result
 4
 3
