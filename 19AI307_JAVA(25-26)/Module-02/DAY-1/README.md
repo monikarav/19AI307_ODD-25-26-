@@ -50,8 +50,8 @@ To create a Teacher class and print the teacher’s information using a method.
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: Sudhakaran S
-RegisterNumber:  212222220051
+Developed by: Monika RV
+RegisterNumber:  212222220027
 */
 ```
 
