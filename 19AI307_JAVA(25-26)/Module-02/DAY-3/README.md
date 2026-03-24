@@ -47,7 +47,12 @@ To implement encapsulation using private variables and public getters/setters in
 
 ## PROGRAM:
  ```
-
+/*
+Program to implement a Access Specifiers using Java
+Developed by: Monika RV
+RegisterNumber:  212222220027
+*/
+```
 
 ## SOURCE CODE:
 ```
