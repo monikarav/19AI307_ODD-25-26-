@@ -79,9 +79,10 @@ RegisterNumber:  212222220027
     }
 }
 
+
 ## OUTPUT:
 
-<img width="401" height="174" alt="image" src="https://github.com/user-attachments/assets/c120352b-8b15-4159-b289-58fe07652de9" />
+<img width="190" height="86" alt="image" src="https://github.com/user-attachments/assets/37a33ada-6cec-4fb0-853b-01c01a2c3ac5" />
 
 ## RESULT:
 Thus, the treasure code is successfully generated based on the given logic.
