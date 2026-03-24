@@ -27,8 +27,8 @@ To read two strings and join them into a single concatenated string.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Abinav Sankar S
-RegisterNumber: 212222040002 
+Developed by: Monika RV
+RegisterNumber:  212222220027
 */
 ```
 
